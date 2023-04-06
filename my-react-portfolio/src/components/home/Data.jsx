@@ -56,7 +56,7 @@ const Data = () => {
             </h1>
             <h3 className="home__subtitle">Student</h3>
             <p className="home__description">
-                Hi I am Haavish Bonala. I study in year 8 in The King's Grammar School (Grantham). I love programming and making videos for my youtube channel. My favorite subjects in school are mathamematics, science and comupter science
+                Cillum reprehenderit fugiat ad incididunt nostrud elit do dolor dolore voluptate ut.
             </p>
 
             <a href="#contact" className="button button--flex">
